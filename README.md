@@ -1,0 +1,2 @@
+# typegodoc
+Typedoc golang patch
